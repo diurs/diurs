@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @diurs , Python developer with 3 years development experience
 - 👀 I am interested in offensive information security and the development of utilities for automating the work of redteam, OSINT and something for the soul
 - 🌱 I am currently studying offensive cybersecurity and python development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
