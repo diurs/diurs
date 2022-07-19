@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diurs , Python developer with 3 years development experience
+- 👋 Hi, I’m @diurs , Python developer with 3.5 years development experience
 - 👀 I am interested in offensive information security and the development of utilities for automating the work of redteam, OSINT and something for the soul
 - 🌱 I am currently studying offensive cybersecurity and python development
 
